@@ -1,3 +1,16 @@
+[[
+Lua based Guessing Game
+- The program generates a random number between 1 and 100. (I have left in a print statement to display the generated random number
+    for testing purposes) 
+- The user has 7 guesses to guess the correct number
+- If the user guesses the correct number, they win and are prompted to play again. 
+    They are also prompted to play again if they lose after 7 guesses.
+]]
+
+
+
+
+
 
 -- logic for random number generation
 function randomize()
