@@ -1,4 +1,6 @@
 --[[
+Brynne Alexander
+~~~
 Lua based Guessing Game
 - The program generates a random number between 1 and 100. (I have left in a print statement to display the generated random number
     for testing purposes) 
